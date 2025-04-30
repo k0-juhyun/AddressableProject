@@ -1,0 +1,2 @@
+# AddressableProject
+Project Addressable Setting
