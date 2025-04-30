@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LobbyScene
+  m_EditorClassIdentifier: 
+  m_GroupName: LobbyScene
+  m_GUID: c4e56c9d0224d2c4592ea4334ece73cc
+  m_SerializeEntries:
+  - m_GUID: 888ad95ecf63f25409bb5e2031caf394
+    m_Address: Assets/03. Images/Intro2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2f4d2aaf2c46654691f4424fdb4a810
+    m_Address: Assets/03. Images/Intro1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c04e2a4bf5f7ef24282bfbc36e537187
+    m_Address: Assets/03. Images/Intro3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa628bdfcd6da7645a70c0c9968cbad7
+    m_Address: Assets/03. Images/BG.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9816fc854df8fa2409e9babd8cd5420f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 887eadec23c42224eb38cb0746712588, type: 2}
+    - {fileID: 11400000, guid: 0d59058277647b24a8f96b94c7b22b03, type: 2}
+    - {fileID: 11400000, guid: ac00082efe23a554080a203d6fbffea7, type: 2}
