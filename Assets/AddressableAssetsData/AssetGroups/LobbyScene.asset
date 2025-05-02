@@ -14,27 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: LobbyScene
   m_GUID: c4e56c9d0224d2c4592ea4334ece73cc
-  m_SerializeEntries:
-  - m_GUID: 888ad95ecf63f25409bb5e2031caf394
-    m_Address: Assets/03. Images/Intro2.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b2f4d2aaf2c46654691f4424fdb4a810
-    m_Address: Assets/03. Images/Intro1.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c04e2a4bf5f7ef24282bfbc36e537187
-    m_Address: Assets/03. Images/Intro3.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fa628bdfcd6da7645a70c0c9968cbad7
-    m_Address: Assets/03. Images/BG.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9816fc854df8fa2409e9babd8cd5420f, type: 2}
   m_SchemaSet:
